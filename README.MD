@@ -21,4 +21,4 @@ Eu sou um desenvolvedor full-stack e Web/UI/UX Designer, criando experiências d
 #
 
 ### 📊 Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamthebestts&theme=vue-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamthebestts&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
