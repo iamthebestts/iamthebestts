@@ -9,7 +9,7 @@ Transformo ideias em experiências digitais impactantes. Combinando código efic
 
 ---
 
-## 🚀 **Minhas Ferramentas**  
+## 🎨 **Ferramentas de Criação**
 [![Ferramentas](https://skillicons.dev/icons?i=webstorm,vscode,visualstudio,ts,js,react,css,html,lua,express,nodejs,mongo)](https://skillicons.dev)
 
 ---
